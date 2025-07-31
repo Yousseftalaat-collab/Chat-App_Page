@@ -6,8 +6,9 @@
 <hr>
 
 <h2>📸 Preview</h2>
+<div align="center">
 <img src="ourpage.gif" width="600" />
-
+</div>
 <hr>
 
 <h2>🧠 What You’ll Learn</h2>
