@@ -5,7 +5,7 @@
 <hr>
 
 <h2>📸 Preview</h2>
-<img src="http://127.0.0.1:5500/index.html" width="28">
+<a href="http://127.0.0.1:5500/index.html"/>
 
 <hr>
 
