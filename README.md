@@ -5,7 +5,7 @@
 <hr>
 
 <h2>📸 Preview</h2>
-<img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](http://127.0.0.1:5500/index.html)" width="28">
+<img src="http://127.0.0.1:5500/index.html" width="28">
 
 <hr>
 
