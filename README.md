@@ -2,7 +2,7 @@
 <h1>🐾 Chat App UI – Simple Booking</h1>
 
 <p> – A playful and responsive dog-walking chat interface designed with only <strong>HTML</strong> and <strong>CSS</strong>. This Frontend Mentor challenge focuses on layout, styling, and UI precision using a mobile-first approach.</p>
-,/div>
+</div>
 <hr>
 
 <h2>📸 Preview</h2>
