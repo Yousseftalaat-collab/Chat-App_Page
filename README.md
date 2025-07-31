@@ -5,7 +5,7 @@
 <hr>
 
 <h2>📸 Preview</h2>
-<p><em>Add your screenshot or live link here if available</em></p>
+<a href="http://127.0.0.1:5500/index.html" 
 
 <hr>
 
